@@ -1,6 +1,6 @@
 {
   "name": "http-server",
-  "version": "0.6.1",
+  "version": "0.6.1-nocache4real",
   "author": "Nodejitsu <support@nodejitsu.com>",
   "description": "a simple zero-configuration command-line http server",
   "main": "./lib/http-server",
@@ -53,7 +53,7 @@
     "colors": "0.6.x",
     "optimist": "0.5.x",
     "union": "0.3.x",
-    "ecstatic": "0.4.x",
+    "ecstatic": "git://github.com/diegovilar/node-ecstatic.git",
     "portfinder": "0.2.x",
     "opener": "~1.3.0"
   },
